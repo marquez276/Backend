@@ -8,6 +8,7 @@ public class NobreLarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(NobreLarApplication.class, args);
+		System.out.println("Nobre Lar Application started successfully!");
 	}
 
 }
